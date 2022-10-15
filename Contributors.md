@@ -1,6 +1,7 @@
 # Contributors
 
 - [Zhi King](https://github.com/zyj1022)
+= [Adil] (https://github.com/adilshehzad786)
 - [Veeresh Soni](https://github.com/veeresh745)
 - [Toihir Halim](https://github.com/toihirhalim)
 - [Thawfeek Varusai](https://github.com/vthawfeek)
